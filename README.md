@@ -6,7 +6,7 @@
 - 🔭 Hoje trabalho como Dev Web freelancer.
 - 🌱 Estudando Angular e inglês
 - 💬 Meu site é [maiscafe.xyz](https://www.maiscafe.xyz)
-- 📫 Me mande um e-mail: mais.cafe@outlook.com
+- 📫 Me mande um e-mail: adrianojr.dev@outlook.com
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Sou boxeador amador
 <div style="display: inline_block"><br>
