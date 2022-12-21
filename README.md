@@ -3,8 +3,8 @@
 
 - 💜 Streamer na [twitch](https://www.twitch.tv/maiscafepf): </br>
  ✨ *Mais de 60 horas mensais de livestream codando, compartilhando conhecimento e documentando meu crescimento.* ✨
-- 🔭 Hoje trabalho como Dev Web freelancer.
-- 🌱 Estudando Vue.js, testes unitários e inglês
+- 🔭 Hoje trabalho como Dev Fullstack.
+- 🌱 Estudando Java, SpringBoot.
 - 💬 Meu site é [maiscafe.xyz](https://www.maiscafe.xyz)
 - 📫 Me mande um e-mail: adrianojr.dev@outlook.com
 - 😄 Pronouns: Ele/dele
