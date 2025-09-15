@@ -1,11 +1,7 @@
 ### Olá! Eu sou o Adriano Jr (Café) 👋
 
-
-- 💜 Streamer na [twitch](https://www.twitch.tv/maiscafepf): </br>
- ✨ *Mais de 60 horas mensais de livestream codando, compartilhando conhecimento e documentando meu crescimento.* ✨
 - 🔭 Hoje trabalho como Dev Fullstack.
-- 🌱 Estudando Java, SpringBoot.
-- 💬 Meu site é [maiscafe.xyz](https://www.maiscafe.xyz)
+- 🌱 Java, SpringBoot, NestJs, NextJs.
 - 📫 Me mande um e-mail: adrianojr.dev@outlook.com
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Sou boxeador amador
